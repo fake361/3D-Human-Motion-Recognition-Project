@@ -1,2 +1,2 @@
 # 3D-Human-Motion-Recognition-Project
-A 3D human motion recognition project that can be implemented directly
+3D Human Pose Estimation is a cutting-edge research direction in the field of computer vision, aiming to infer accurate human pose information in three-dimensional space through multi-view images or video streams. This technology integrates knowledge from multiple disciplines including computer vision, deep learning, and multi-view geometry, and has broad application prospects in areas such as human-computer interaction, sports analysis, virtual reality, augmented reality, intelligent surveillance, and medical rehabilitation.
